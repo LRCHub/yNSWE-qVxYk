@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Present",
+  "base_artist": "星野 源",
+  "createdAt": "2026-03-03T22:42:58.299030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Present Tense",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Present_Tense_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Present of Future End",
+      "artist": "The Most Serene Republic",
+      "has_synced": true,
+      "path": "select/02_Present_of_Future_End_The_Most_Serene_Republic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Present Moment",
+      "artist": "Steve Roach",
+      "has_synced": false,
+      "path": "select/03_Present_Moment_Steve_Roach.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How to Find True Love and Happiness in the Present Day",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/04_How_to_Find_True_Love_and_Happiness_in_the_Present_Day_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Present Tense",
+      "artist": "Halou",
+      "has_synced": false,
+      "path": "select/05_Present_Tense_Halou.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Present Tense (Different)",
+      "artist": "Halou",
+      "has_synced": false,
+      "path": "select/06_Present_Tense_(Different)_Halou.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Present",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/07_The_Present_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ever Present Past",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/08_Ever_Present_Past_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Present Tense",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/09_Present_Tense_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Past Present",
+      "artist": "Skinny Puppy",
+      "has_synced": true,
+      "path": "select/10_Past_Present_Skinny_Puppy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Present Imperfect",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/11_The_Present_Imperfect_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Present Tense",
+      "artist": "Anacrusis",
+      "has_synced": true,
+      "path": "select/12_Present_Tense_Anacrusis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Early Christmas Present",
+      "artist": "Kate Nash",
+      "has_synced": true,
+      "path": "select/13_Early_Christmas_Present_Kate_Nash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Special Present",
+      "artist": "Pale Saints",
+      "has_synced": false,
+      "path": "select/14_Special_Present_Pale_Saints.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Present Joys",
+      "artist": "Alabama Sacred Harp Singers",
+      "has_synced": false,
+      "path": "select/15_Present_Joys_Alabama_Sacred_Harp_Singers.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Day and Night - Jax Jones & Martin Solveig Present Europa",
+      "artist": "Jax Jones feat. Martin Solveig, Madison Beer & Europa",
+      "has_synced": true,
+      "path": "select/16_All_Day_and_Night_-_Jax_Jones_&_Martin_Solveig_Present_Europa_Jax_Jones_feat._Martin_Solveig,_Madison_Beer_&_Europa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Present",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Present_星野源.txt"
+    }
+  ]
+}
